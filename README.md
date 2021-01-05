@@ -1,15 +1,16 @@
-### Date created
-Include the date you created this project and README file.
+# Explore US Bokeshare Data with Python
+Second Project of the course " Programming for Data Science with Python Nanodegree Program" from Udacity.
 
-### Project Title
-Replace the Project Title
+### 04.01.2021
 
-### Description
-Describe what your project is about and what it does
+### Description:
+ Use Python to understand U.S. bikeshare data. Calculate statistics and build an interactive environment where a user chooses the data and filter for a databese to analyze.
 
 ### Files used
-Include the files used
+1. bikeshare_2.py
+2. Data
+ * chicago.cvs
+ * new_york_city.cvs
+ * washington.cvs
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+### Udacity course " Programming for Data Science with Python Nanodegree Program"
