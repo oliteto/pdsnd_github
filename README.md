@@ -3,8 +3,8 @@ Second Project of the course " Programming for Data Science with Python Nanodegr
 
 ### 04.01.2021
 
-### Use Python to understand U.S. bikeshare data. Calculate statistics and build an interactive environment where a user chooses the data and filter for a databese to analyze.
-Describe what your project is about and what it does
+### Description:
+ Use Python to understand U.S. bikeshare data. Calculate statistics and build an interactive environment where a user chooses the data and filter for a databese to analyze.
 
 ### Files used
 1. bikeshare_2.py
