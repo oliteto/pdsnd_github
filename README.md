@@ -1,4 +1,4 @@
-### Explore US Bokeshare Data
+# Explore US Bokeshare Data with Python
 Second Project of the course " Programming for Data Science with Python Nanodegree Program" from Udacity.
 
 ### 04.01.2021
