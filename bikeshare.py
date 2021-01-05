@@ -77,9 +77,9 @@ def get_filters():
         else:
             print("Wrong answer")
 
-    print('-' * 40)
+    printline_terminal(40)
     print("User options: ", city, month, day)
-    print('-' * 40)
+    printline_terminal(40)
     return city, month, day
 
 
@@ -125,12 +125,14 @@ def load_data(city, month, day):
     time_calculation(start_time)
     return df
 
+def printline_terminal(ntimes):
+    print('-' * ntimes)
 
 def time_calculation(start_time):
     """Calculate the time a process took"""
 
     print("\nThis took {:.3f} seconds to calculate.".format(time.time() - start_time))
-    print('-' * 40)
+    printline_terminal(40)
 
 
 def user_stats(df):
